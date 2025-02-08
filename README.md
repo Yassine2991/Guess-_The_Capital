@@ -16,20 +16,5 @@
 ✅ Score tracking  
 ✅ Replay option  
 
-## 🔧 Installation & Usage
-1. Make sure you have Python installed (3.x recommended).  
-2. Download the script or clone this repository:  
-   ```sh
-   git clone https://github.com/Yassine2991/Romeo-Juliet.git
-   ```
-3. Run the game:  
-   ```sh
-   python guess_the_capital.py
-   ```
-
-## 📌 Future Improvements
-- More game modes (e.g., timed quiz mode)
-- Difficulty levels (easy, medium, hard)
-- Save high scores
 
 
